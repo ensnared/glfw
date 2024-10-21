@@ -53,6 +53,7 @@ src/glfw_config.h
 src/glfw3.pc
 src/glfw3Config.cmake
 src/glfw3ConfigVersion.cmake
+obj/
 
 # Compiled binaries
 src/libglfw.so
@@ -101,4 +102,5 @@ tests/title
 tests/triangle-vulkan
 tests/window
 tests/windows
+bin/
 
