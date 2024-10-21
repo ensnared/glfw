@@ -43,6 +43,7 @@ CMakeDoxyfile.in
 CMakeDoxygenDefaults.cmake
 cmake_install.cmake
 cmake_uninstall.cmake
+GLFW.cmake
 
 # Generated files
 docs/Doxyfile
